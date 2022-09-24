@@ -1,113 +1,186 @@
-Entity,Year,"Coffee, green | 00000656 || Production | 005510 || tonnes"
-Africa,2020,1289409
-Africa (FAO),2020,1289409
-Americas (FAO),2020,6089397
-Angola,2020,14855
-Asia,2020,3268268
-Asia (FAO),2020,3268268
-Belize,2020,85
-Benin,2020,55
-Bolivia,2020,23401
-Brazil,2020,3700231
-Burundi,2020,15900
-Cambodia,2020,363
-Cameroon,2020,36207
-Cape Verde,2020,48
-Caribbean (FAO),2020,47699
-Central African Republic,2020,10448
-Central America (FAO),2020,1042859
-China,2020,114000
-China (FAO),2020,114000
-Colombia,2020,833400
-Comoros,2020,140
-Congo,2020,3043
-Cook Islands,2020,0
-Costa Rica,2020,76008
-Cote d'Ivoire,2020,59412
-Cuba,2020,7500
-Democratic Republic of Congo,2020,29834
-Dominica,2020,229
-Dominican Republic,2020,7181
-Eastern Africa (FAO),2020,1069577
-Eastern Asia (FAO),2020,114000
-Ecuador,2020,5280
-El Salvador,2020,36000
-Equatorial Guinea,2020,4187
-Ethiopia,2020,584790
-Fiji,2020,14
-French Polynesia,2020,21
-Gabon,2020,99
-Ghana,2020,736
-Guatemala,2020,225000
-Guinea,2020,38572
-Guyana,2020,360
-Haiti,2020,20700
-High-income countries,2020,6714
-Honduras,2020,364552
-India,2020,298000
-Indonesia,2020,773409
-Jamaica,2020,7170
-Kenya,2020,36900
-Land Locked Developing Countries (FAO),2020,1149317
-Laos,2020,185721
-Least Developed Countries (FAO),2020,1392389
-Liberia,2020,638
-Low Income Food Deficit Countries (FAO),2020,3525620
-Low-income countries,2020,1086521
-Lower-middle-income countries,2020,3970648
-Madagascar,2020,42220
-Malawi,2020,10000
-Malaysia,2020,4241
-Melanesia,2020,41032
-Mexico,2020,175555
-Middle Africa (FAO),2020,98680
-Mozambique,2020,805
-Myanmar,2020,8799
-Nepal,2020,505
-Net Food Importing Developing Countries (FAO),2020,2352796
-New Caledonia,2020,2
-Nicaragua,2020,158759
-Nigeria,2020,1887
-North America,2020,1092513
-Northern America (FAO),2020,1955
-Oceania,2020,41079
-Oceania (FAO),2020,41079
-Panama,2020,6900
-Papua New Guinea,2020,40980
-Paraguay,2020,381
-Peru,2020,376725
-Philippines,2020,60641
-Polynesia,2020,47
-Puerto Rico,2020,4105
-Rwanda,2020,20459
-Saint Vincent and the Grenadines,2020,183
-Samoa,2020,11
-Sao Tome and Principe,2020,7
-Saudi Arabia,2020,0
-Sierra Leone,2020,2400
-Small Island Developing States (FAO),2020,96924
-South America,2020,4996884
-South America (FAO),2020,4996884
-South-eastern Asia (FAO),2020,2826655
-Southern Asia (FAO),2020,305230
-Sri Lanka,2020,6725
-Suriname,2020,6
-Taiwan,2020,0
-Tanzania,2020,60651
-Thailand,2020,22505
-Timor,2020,7500
-Togo,2020,17404
-Tonga,2020,15
-Trinidad and Tobago,2020,631
-Uganda,2020,290668
-United States,2020,1955
-Upper-middle-income countries,2020,5567170
-Vanuatu,2020,36
-Venezuela,2020,57100
-Vietnam,2020,1763476
-Western Africa (FAO),2020,121152
-Western Asia (FAO),2020,22383
-World,2020,10688153
-Yemen,2020,22383
-Zambia,2020,6536
-Zimbabwe,2020,508
+Country,Active
+Africa,1289409
+Africa (FAO),1289409
+Americas (FAO),6089397
+Angola,14855
+Asia,3268268
+Asia (FAO),3268268
+Belize,85
+Benin,55
+Bolivia,23401
+Brazil,3700231
+Burundi,15900
+Cambodia,363
+Cameroon,36207
+Cape Verde,48
+Caribbean (FAO),47699
+Central African Republic,10448
+Central America (FAO),1042859
+China,114000
+China (FAO),114000
+Colombia,833400
+Comoros,140
+Congo,3043
+Cook Islands,0
+Costa Rica,76008
+Cote d'Ivoire,59412
+Cuba,7500
+Democratic Republic of Congo,29834
+Dominica,229
+Dominican Republic,7181
+Eastern Africa (FAO),1069577
+Eastern Asia (FAO),114000
+Ecuador,5280
+El Salvador,36000
+Equatorial Guinea,4187
+Ethiopia,584790
+Fiji,14
+French Polynesia,21
+Gabon,99
+Ghana,736
+Guatemala,225000
+Guinea,38572
+Guyana,360
+Haiti,20700
+High-income countries,6714
+Honduras,364552
+India,298000
+Indonesia,773409
+Jamaica,7170
+Kenya,36900
+Land Locked Developing Countries (FAO),1149317
+Laos,185721
+Least Developed Countries (FAO),1392389
+Liberia,638
+Low Income Food Deficit Countries (FAO),3525620
+Low-income countries,1086521
+Lower-middle-income countries,3970648
+Madagascar,42220
+Malawi,10000
+Malaysia,4241
+Melanesia,41032
+Mexico,175555
+Middle Africa (FAO),98680
+Mozambique,805
+Myanmar,8799
+Nepal,505
+Net Food Importing Developing Countries (FAO),2352796
+New Caledonia,2
+Nicaragua,158759
+Nigeria,1887
+North America,1092513
+Northern America (FAO),1955
+Oceania,41079
+Oceania (FAO),41079
+Panama,6900
+Papua New Guinea,40980
+Paraguay,381
+Peru,376725
+Philippines,60641
+Polynesia,47
+Puerto Rico,4105
+Rwanda,20459
+Saint Vincent and the Grenadines,183
+Samoa,11
+Sao Tome and Principe,7
+Saudi Arabia,0
+Sierra Leone,2400
+Small Island Developing States (FAO),96924
+South America,4996884
+South America (FAO),4996884
+South-eastern Asia (FAO),2826655
+Southern Asia (FAO),305230
+Sri Lanka,6725
+Suriname,6
+Taiwan,0
+Tanzania,60651
+Thailand,22505
+Timor,7500
+Togo,17404
+Tonga,15
+Trinidad and Tobago,631
+Uganda,290668
+United States,1955
+Upper-middle-income countries,5567170
+Vanuatu,36
+Venezuela,57100
+Vietnam,1763476
+Western Africa (FAO),121152
+Western Asia (FAO),22383
+World,10688153
+Yemen,22383
+Zambia,6536
+Zimbabwe,508
+Monaco,
+Mongolia,
+Montenegro,
+Morocco,
+Mozambique,
+Namibia,
+Nepal,
+Netherlands,
+New Zealand,
+Nicaragua,
+Niger,
+Nigeria,
+North Macedonia,
+Norway,
+Oman,
+Pakistan,
+Panama,
+Papua New Guinea,
+Paraguay,
+Peru,
+Philippines,
+Poland,
+Portugal,
+Qatar,
+Romania,
+Russia,
+Rwanda,
+Saint Kitts and Nevis,
+Saint Lucia,
+Saint Vincent and the Grenadines,
+San Marino,
+Sao Tome and Principe,
+Saudi Arabia,
+Senegal,
+Serbia,
+Seychelles,
+Sierra Leone,
+Singapore,
+Slovakia,
+Slovenia,
+Somalia,
+South Africa,
+South Sudan,
+Spain,
+Sri Lanka,
+Sudan,
+Suriname,
+Sweden,
+Switzerland,
+Syria,
+Taiwan,
+Tajikistan,
+Tanzania,
+Thailand,
+Timor-Leste,
+Togo,
+Trinidad and Tobago,
+Tunisia,
+Turkey,
+Uganda,
+Ukraine,
+United Arab Emirates,
+United Kingdom,
+Uruguay,
+United States of America,
+Uzbekistan,
+Venezuela,
+Vietnam,
+West Bank and Gaza,
+Western Sahara,
+Yemen,
+Zambia,
+Zimbabwe,
